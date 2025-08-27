@@ -9,9 +9,6 @@
   },
   "author": "Vitor Fonseca",
   "license": "ISC",
-  "devDependencies": {
-    "live-server": "1.2.1"
-  },
   "dependencies": {
     "vite": "^7.1.3"
   }
